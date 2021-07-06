@@ -1,0 +1,26 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/iphone-60x60@3x.png?raw=true",
+        "url_png_logo": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/southtyrolpool-name.jpg?raw=true",
+        "location": "Newburgh, IN, USA",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "github_handle": "aliche123"
+        },
+        "about": {
+            "me": "Single Pool Operator",
+            "server": "Core    CPU:4core|RAM:24G|SSD:1TB hard drive",
+                      "Relay-1 CPU:4core|RAM:16G|SSD:1TB hard drive",
+                      "Relay-2 CPU:4core|RAM:16G|SSD:1TB hard drive",
+                      "all located in IN, USA"
+    },
+    "my-pool-ids": {
+        "0": "52ffc8b767d55223231209643812d8de18685a4b0388ff08a7575803"
+    },
+    "when-satured-then-recommend": {
+        "0": "small pools - support decentralization"
+    }
+}
+}
+
