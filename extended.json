@@ -11,7 +11,7 @@
         },
         "about": {
             "me": "Single Pool Operator",
-            "server": "server|Core <CPU 4core|RAM:24G|SSD:1TB hard drive + 2 Relays <CPU 4core|RAM:24G|SSD:1TB hard driv"
+            "server": "server|Core <CPU 4 core|RAM:24G|SSD:1TB hard drive + 2 Relays <CPU 4 core|RAM:24G|SSD:1TB hard drives"
     },
     "my-pool-ids": {
         "0": "52ffc8b767d55223231209643812d8de18685a4b0388ff08a7575803"
